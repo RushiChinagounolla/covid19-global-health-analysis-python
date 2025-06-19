@@ -44,4 +44,10 @@ This repository contains an end-to-end analysis of global COVID-19 trends using 
 
 ---
 
+## 📈 Sample Visualizations
+
+![Global Trend](plots/global_trend.png)
+![Top 15 Confirmed Cases Countries](plots/top15_confirmed.png)
+![Grouped Bar Chart: Top 15](plots/top15_grouped_bar.png)
+![Stacked Bar Chart: Top 15](plots/top15_stacked_bar.png)
 
